@@ -1,0 +1,17 @@
+//
+//  MMVPrefixHeader.pch
+//  MiaoMiaoVoice
+//
+//  Created by 金晓浩 on 16/6/1.
+//  Copyright © 2016年 XiaoHaoJin. All rights reserved.
+//
+
+#ifndef MMVPrefixHeader_pch
+#define MMVPrefixHeader_pch
+
+#import "AppMacro.h"
+
+#import <iflyMSC/iflyMSC.h>
+#import "JJAlertView.h"
+
+#endif /* MMVPrefixHeader_pch */
